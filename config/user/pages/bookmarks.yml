@@ -1,222 +1,253 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-18T08:10:16.448Z
+# 由bookmark-processor.js生成于 2025-11-18T12:46:11.235Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
 title: 我的书签
 subtitle: 从浏览器导入的书签收藏
 categories:
-  - name: 机场
+  - name: ""
     icon: fas fa-folder
     path:
-      - 机场
-    sites:
-      - name: 泡泡Dog
-        url: https://www.paopao.dog/#/login
-        icon: fas fa-link
-        description: ""
-      - name: 亏本机场
-        url: https://knjc.cfd/#/dashboard
-        icon: fas fa-link
-        description: ""
-      - name: 仪表盘 | PolYun
-        url: https://svcloud.one/#/dashboard
-        icon: fas fa-link
-        description: ""
-      - name: 互联网速度测试 | Fast.com
-        url: https://fast.com/zh/cn/#
-        icon: fas fa-link
-        description: ""
-  - name: 资源
-    icon: fas fa-folder
-    path:
-      - 资源
-    sites:
-      - name: 星海svip免加密狗-高通平台-高通工具-一牛网论坛 - 手机版
-        url: https://bbs.16rd.com/thread-601872-1-1.html
-        icon: fas fa-link
-        description: ""
-      - name: 主页 | 萤火虫资源站
-        url: https://www.yhcres.top/
-        icon: fas fa-link
-        description: ""
-      - name: iconfont-阿里巴巴矢量图标库
-        url: https://www.iconfont.cn/
-        icon: fas fa-link
-        description: ""
-      - name: ByteDance IconPark图标库
-        url: https://iconpark.oceanengine.com/home
-        icon: fas fa-link
-        description: ""
-      - name: 土豆资源库-单机游戏下载网-软件下载网-资料下载网
-        url: https://www.tdtd.chat/index
-        icon: fas fa-link
-        description: ""
-      - name: 免费4K高清壁纸-电脑背景图片-Mac壁纸网站「哲风壁纸」
-        url: https://haowallpaper.com/
-        icon: fas fa-link
-        description: ""
-      - name: 555电影APP下载-555电影官网永久发布页
-        url: https://pro55.life/
-        icon: fas fa-link
-        description: ""
-      - name: 记录列表 - 北川二级域名分发
-        url: https://ym.beiyum.cn/home
-        icon: fas fa-link
-        description: ""
-  - name: 漫剪
-    icon: fas fa-folder
-    path:
-      - 漫剪
-    sites:
-      - name: 【极虎漫剪】使用文档 - 飞书云文档
-        url: https://y93oxp075i.feishu.cn/docx/PDsXdXqJnofyfhxiXVIc5KvMnrc?ignore_wx_jump=1
-        icon: fas fa-link
-        description: ""
-      - name: "‌\uFEFF​​​\uFEFF‬‌​​​​\uFEFF\uFEFF​​​​​\uFEFF​​‍​​‬​\uFEFF⁠​​​​‬​​\uFEFF​‍‌‬​\uFEFF‌\uFEFF​‬​‬​EasyAI 安装手册 - 飞书云文档"
-        url: https://tx5gf078h75.feishu.cn/docx/C6a8dztsuozy3uxUR3mc4uJ6nlb
-        icon: fas fa-link
-        description: ""
-      - name: 逗哥配音神器-解说潮流引领者
-        url: https://www.douge.com/index
-        icon: fas fa-link
-        description: ""
-  - name: 搞钱
-    icon: fas fa-folder
-    path:
-      - 搞钱
-    sites:
-      - name: 首页 - 数据中台，代理
-        url: https://adz.yogougouzs.com/#/layout/dashboard
-        icon: fas fa-link
-        description: ""
-      - name: 点滴调查－首页
-        url: http://diandisurvey.com/index.php
-        icon: fas fa-link
-        description: ""
-  - name: 社区
-    icon: fas fa-folder
-    path:
-      - 社区
-    sites:
-      - name: GitHub
-        url: https://github.com/
-        icon: fab fa-github
-        description: ""
-      - name: 一尺涵知免费的教程-网赚思路分享-实用工具互联网项目分享基地
-        url: https://www.yhanzhi.com/
-        icon: fas fa-link
-        description: ""
-      - name: 恩山无线论坛
-        url: https://www.right.com.cn/forum/
-        icon: fas fa-link
-        description: ""
-      - name: 柚坛社区
-        url: https://www.uotan.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 快嘴科技_致力于免费分享！
-        url: https://kkzui.com/
-        icon: fas fa-link
-        description: ""
-  - name: 代刷网
-    icon: fas fa-folder
-    path:
-      - 代刷网
-    sites:
-      - name: HZW（网课/乐跑）
-        url: http://hzwkm.com/index/home
-        icon: fas fa-link
-        description: ""
-      - name: 刷课后台
-        url: http://www.djynb.icu/get
-        icon: fas fa-link
-        description: ""
-      - name: 网课（便宜）
-        url: https://xiaohe.jhfyqz.com/user/
-        icon: fas fa-link
-        description: ""
-      - name: 多维（网课/乐跑）
-        url: https://prowk.top/index/index.php
-        icon: fas fa-link
-        description: ""
-      - name: 后台首页 – 青青子衿,悠悠我心
-        url: https://e.eeevg.cn/home
-        icon: fas fa-link
-        description: ""
-  - name: 网盘
-    icon: fas fa-folder
-    path:
-      - 网盘
-    sites:
-      - name: 百度网盘
-        url: https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&path=%2F
-        icon: fas fa-link
-        description: ""
-      - name: 前台解析-GY
-        url: https://bd.wpjx.org/user/parse
-        icon: fas fa-link
-        description: ""
-  - name: 学习
-    icon: fas fa-folder
-    path:
-      - 学习
-    sites:
-      - name: 教学管理信息服务平台
-        url: http://1.85.30.53/jwglxt/xtgl/login_slogin.html
-        icon: fas fa-link
-        description: ""
-      - name: 菜鸟教程 - 学的不仅是技术，更是梦想！
-        url: https://www.runoob.com/
-        icon: fas fa-link
-        description: ""
-  - name: 接码
-    icon: fas fa-folder
-    path:
-      - 接码
-    sites:
-      - name: 椰子接码
-        url: http://h5.yezi87.com:90/#/work
-        icon: fas fa-link
-        description: ""
-      - name: 豪猪接码
-        url: https://h5.haozhuma.com/index.php
-        icon: fas fa-link
-        description: ""
-  - name: 服务器/域名
-    icon: fas fa-folder
-    path:
-      - 服务器/域名
-    sites:
-      - name: Cloudflare Dashboard | Manage Your Account
-        url: https://dash.cloudflare.com/f2b7dba68d678be76c74d81daf75c7ee/home/domains
-        icon: fas fa-link
-        description: ""
-      - name: 207025.xyz - 高级 DNS - Spaceship --- 207025.xyz - Advanced DNS - Spaceship
-        url: https://www.spaceship.com/application/advanced-dns-application/manage/207025.xyz/
-        icon: fas fa-link
-        description: ""
-      - name: 朝晞云 | 云服务器/VPS/高防服务器/CDN加速 - 全球领先云计算服务商
-        url: https://cloud.zxiyun.com/
-        icon: fas fa-link
-        description: ""
-      - name: 用户中心 | 佛系云计算服务器
-        url: https://vps.idcfx.net/clientarea
-        icon: fas fa-link
-        description: ""
-      - name: 朝晞云节点
-        url: http://43.251.225.238:8888/app/
-        icon: fas fa-link
-        description: ""
-      - name: 佛系节点
-        url: http://45.205.31.23:2095/app/
-        icon: fas fa-link
-        description: ""
-      - name: 1Panel
-        url: http://45.205.31.23:29861/
-        icon: fas fa-link
-        description: ""
-      - name: 轻量应用服务器控制台
-        url: https://swasnext.console.aliyun.com/servers/cn-chengdu/14d0354e9b0a4fdf8554d0cfbfd56960/dashboard
-        icon: fas fa-link
-        description: ""
+      - ""
+    subcategories:
+      - name: 书签栏
+        icon: fas fa-folder
+        path:
+          - ""
+          - 书签栏
+        groups:
+          - name: 机场
+            icon: fas fa-folder
+            path:
+              - ""
+              - 书签栏
+              - 机场
+            sites:
+              - name: 泡泡Dog
+                url: https://www.paopao.dog/#/login
+                icon: fas fa-link
+                description: ""
+              - name: 亏本机场
+                url: https://knjc.cfd/#/dashboard
+                icon: fas fa-link
+                description: ""
+              - name: 仪表盘 | PolYun
+                url: https://svcloud.one/#/dashboard
+                icon: fas fa-link
+                description: ""
+              - name: 互联网速度测试 | Fast.com
+                url: https://fast.com/zh/cn/#
+                icon: fas fa-link
+                description: ""
+          - name: 资源
+            icon: fas fa-folder
+            path:
+              - ""
+              - 书签栏
+              - 资源
+            sites:
+              - name: 星海svip免加密狗-高通平台-高通工具-一牛网论坛 - 手机版
+                url: https://bbs.16rd.com/thread-601872-1-1.html
+                icon: fas fa-link
+                description: ""
+              - name: 主页 | 萤火虫资源站
+                url: https://www.yhcres.top/
+                icon: fas fa-link
+                description: ""
+              - name: iconfont-阿里巴巴矢量图标库
+                url: https://www.iconfont.cn/
+                icon: fas fa-link
+                description: ""
+              - name: ByteDance IconPark图标库
+                url: https://iconpark.oceanengine.com/home
+                icon: fas fa-link
+                description: ""
+              - name: 土豆资源库-单机游戏下载网-软件下载网-资料下载网
+                url: https://www.tdtd.chat/index
+                icon: fas fa-link
+                description: ""
+              - name: 免费4K高清壁纸-电脑背景图片-Mac壁纸网站「哲风壁纸」
+                url: https://haowallpaper.com/
+                icon: fas fa-link
+                description: ""
+              - name: 555电影APP下载-555电影官网永久发布页
+                url: https://pro55.life/
+                icon: fas fa-link
+                description: ""
+              - name: 记录列表 - 北川二级域名分发
+                url: https://ym.beiyum.cn/home
+                icon: fas fa-link
+                description: ""
+          - name: 漫剪
+            icon: fas fa-folder
+            path:
+              - ""
+              - 书签栏
+              - 漫剪
+            sites:
+              - name: 【极虎漫剪】使用文档 - 飞书云文档
+                url: https://y93oxp075i.feishu.cn/docx/PDsXdXqJnofyfhxiXVIc5KvMnrc?ignore_wx_jump=1
+                icon: fas fa-link
+                description: ""
+              - name: "‌\uFEFF​​​\uFEFF‬‌​​​​\uFEFF\uFEFF​​​​​\uFEFF​​‍​​‬​\uFEFF⁠​​​​‬​​\uFEFF​‍‌‬​\uFEFF‌\uFEFF​‬​‬​EasyAI 安装手册 - 飞书云文档"
+                url: https://tx5gf078h75.feishu.cn/docx/C6a8dztsuozy3uxUR3mc4uJ6nlb
+                icon: fas fa-link
+                description: ""
+              - name: 逗哥配音神器-解说潮流引领者
+                url: https://www.douge.com/index
+                icon: fas fa-link
+                description: ""
+          - name: 搞钱
+            icon: fas fa-folder
+            path:
+              - ""
+              - 书签栏
+              - 搞钱
+            sites:
+              - name: 首页 - 数据中台，代理
+                url: https://adz.yogougouzs.com/#/layout/dashboard
+                icon: fas fa-link
+                description: ""
+              - name: 点滴调查－首页
+                url: http://diandisurvey.com/index.php
+                icon: fas fa-link
+                description: ""
+          - name: 社区
+            icon: fas fa-folder
+            path:
+              - ""
+              - 书签栏
+              - 社区
+            sites:
+              - name: GitHub
+                url: https://github.com/
+                icon: fab fa-github
+                description: ""
+              - name: 一尺涵知免费的教程-网赚思路分享-实用工具互联网项目分享基地
+                url: https://www.yhanzhi.com/
+                icon: fas fa-link
+                description: ""
+              - name: 恩山无线论坛
+                url: https://www.right.com.cn/forum/
+                icon: fas fa-link
+                description: ""
+              - name: 柚坛社区
+                url: https://www.uotan.cn/
+                icon: fas fa-link
+                description: ""
+              - name: 快嘴科技_致力于免费分享！
+                url: https://kkzui.com/
+                icon: fas fa-link
+                description: ""
+          - name: 代刷网
+            icon: fas fa-folder
+            path:
+              - ""
+              - 书签栏
+              - 代刷网
+            sites:
+              - name: HZW（网课/乐跑）
+                url: http://hzwkm.com/index/home
+                icon: fas fa-link
+                description: ""
+              - name: 刷课后台
+                url: http://www.djynb.icu/get
+                icon: fas fa-link
+                description: ""
+              - name: 网课（便宜）
+                url: https://xiaohe.jhfyqz.com/user/
+                icon: fas fa-link
+                description: ""
+              - name: 多维（网课/乐跑）
+                url: https://prowk.top/index/index.php
+                icon: fas fa-link
+                description: ""
+              - name: 后台首页 – 青青子衿,悠悠我心
+                url: https://e.eeevg.cn/home
+                icon: fas fa-link
+                description: ""
+          - name: 网盘
+            icon: fas fa-folder
+            path:
+              - ""
+              - 书签栏
+              - 网盘
+            sites:
+              - name: 百度网盘
+                url: https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all&amp;path=%2F
+                icon: fas fa-link
+                description: ""
+              - name: 前台解析-GY
+                url: https://bd.wpjx.org/user/parse
+                icon: fas fa-link
+                description: ""
+          - name: 学习
+            icon: fas fa-folder
+            path:
+              - ""
+              - 书签栏
+              - 学习
+            sites:
+              - name: 教学管理信息服务平台
+                url: http://1.85.30.53/jwglxt/xtgl/login_slogin.html
+                icon: fas fa-link
+                description: ""
+              - name: 菜鸟教程 - 学的不仅是技术，更是梦想！
+                url: https://www.runoob.com/
+                icon: fas fa-link
+                description: ""
+          - name: 接码
+            icon: fas fa-folder
+            path:
+              - ""
+              - 书签栏
+              - 接码
+            sites:
+              - name: 椰子接码
+                url: http://h5.yezi87.com:90/#/work
+                icon: fas fa-link
+                description: ""
+              - name: 豪猪接码
+                url: https://h5.haozhuma.com/index.php
+                icon: fas fa-link
+                description: ""
+          - name: 服务器/域名
+            icon: fas fa-folder
+            path:
+              - ""
+              - 书签栏
+              - 服务器/域名
+            sites:
+              - name: Cloudflare Dashboard | Manage Your Account
+                url: https://dash.cloudflare.com/f2b7dba68d678be76c74d81daf75c7ee/home/domains
+                icon: fas fa-link
+                description: ""
+              - name: 207025.xyz - 高级 DNS - Spaceship --- 207025.xyz - Advanced DNS - Spaceship
+                url: https://www.spaceship.com/application/advanced-dns-application/manage/207025.xyz/
+                icon: fas fa-link
+                description: ""
+              - name: 朝晞云 | 云服务器/VPS/高防服务器/CDN加速 - 全球领先云计算服务商
+                url: https://cloud.zxiyun.com/
+                icon: fas fa-link
+                description: ""
+              - name: 用户中心 | 佛系云计算服务器
+                url: https://vps.idcfx.net/clientarea
+                icon: fas fa-link
+                description: ""
+              - name: 朝晞云节点
+                url: http://43.251.225.238:8888/app/
+                icon: fas fa-link
+                description: ""
+              - name: 佛系节点
+                url: http://45.205.31.23:2095/app/
+                icon: fas fa-link
+                description: ""
+              - name: 1Panel
+                url: http://45.205.31.23:29861/
+                icon: fas fa-link
+                description: ""
+              - name: 轻量应用服务器控制台
+                url: https://swasnext.console.aliyun.com/servers/cn-chengdu/14d0354e9b0a4fdf8554d0cfbfd56960/dashboard
+                icon: fas fa-link
+                description: ""
