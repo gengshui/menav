@@ -4,8 +4,8 @@ menus:
       url: "#"
       icon: fas fa-arrow-up
 
-    - name: ⭐ 置顶常用
-      url: "#置顶常用网站"
+    - name: ⭐ 常用网站
+      url: "#常用网站"
       icon: fas fa-star
 
     - name: 机场 & 代理
