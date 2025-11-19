@@ -1,54 +1,89 @@
-menus:
-  main:
-    - name: 🏠 回到顶部
-      url: "#"
-      icon: fas fa-arrow-up
+# 网站基本信息
+title: 我的导航
+description: 个人导航站
+author: Me
+favicon: menav.svg
+logo_text: MeNav
 
-    - name: ⭐ 常用网站
-      url: "#常用网站"
-      icon: fas fa-star
+icons:
+  mode: favicon
 
-    - name: 机场 & 代理
-      url: "#机场-&-代理"
-      icon: fas fa-plane
+# 字体设置
+fonts:
+  title:
+    family: Poppins
+    weight: 600
+    source: google
+  subtitle:
+    family: Quicksand
+    weight: 500
+    source: google
+  body:
+    family: Noto Sans SC
+    weight: 400
+    source: google
 
-    - name: 资源
-      url: "#资源"
-      icon: fas fa-box-open
+# 👤 个人资料：显示在左上角
+profile:
+  title: 哈啰！👋
+  subtitle: 欢迎使用我的导航
+  description: 常用网站一键直达 ✨
 
-    - name: 漫剪 & 创作
-      url: "#漫剪-&-创作"
-      icon: fas fa-cut
+# 🧭 核心导航：左侧菜单栏 (这里改好了！)
+navigation:
+  - name: 🏠 回到顶部
+    url: "#"
+    icon: fas fa-arrow-up
 
-    - name: 搞钱项目
-      url: "#搞钱项目"
-      icon: fas fa-coins
+  - name: ⭐ 置顶常用
+    url: "#置顶常用网站"
+    icon: fas fa-star
 
-    - name: 社区论坛
-      url: "#社区论坛"
-      icon: fas fa-comments
+  - name: 机场 & 代理
+    url: "#机场-&-代理"
+    icon: fas fa-plane
 
-    - name: 代刷网
-      url: "#代刷网"
-      icon: fas fa-shopping-cart
+  - name: 资源
+    url: "#资源"
+    icon: fas fa-box-open
 
-    - name: 网盘 & 存储
-      url: "#网盘-&-存储"
-      icon: fas fa-cloud
+  - name: 漫剪 & 创作
+    url: "#漫剪-&-创作"
+    icon: fas fa-cut
 
-    - name: 学习平台
-      url: "#学习平台"
-      icon: fas fa-graduation-cap
+  - name: 搞钱项目
+    url: "#搞钱项目"
+    icon: fas fa-coins
 
-    - name: 接码平台
-      url: "#接码平台"
-      icon: fas fa-sms
+  - name: 社区论坛
+    url: "#社区论坛"
+    icon: fas fa-comments
 
-    - name: 服务器 & 域名
-      url: "#服务器-&-域名"
-      icon: fas fa-server
+  - name: 代刷网
+    url: "#代刷网"
+    icon: fas fa-shopping-cart
 
-    - name: GitHub
-      url: https://github.com/
-      icon: fab fa-github
-      target: _blank
+  - name: 网盘 & 存储
+    url: "#网盘-&-存储"
+    icon: fas fa-cloud
+
+  - name: 学习平台
+    url: "#学习平台"
+    icon: fas fa-graduation-cap
+
+  - name: 接码平台
+    url: "#接码平台"
+    icon: fas fa-sms
+
+  - name: 服务器 & 域名
+    url: "#服务器-&-域名"
+    icon: fas fa-server
+
+# 💬 社交媒体：显示在左下角
+social:
+  - name: GitHub
+    url: https://github.com
+    icon: fab fa-github
+  - name: 1Panel
+    url: http://45.205.31.23:29861/
+    icon: fas fa-server
