@@ -1,13 +1,51 @@
 menus:
   main:
-    - name: 首页
-      url: /
-      icon: fas fa-home
+    - name: 🏠 回到顶部
+      url: "#"
+      icon: fas fa-arrow-up
+
+    - name: 机场 & 代理
+      url: "#机场-&-代理"
+      icon: fas fa-plane
+
+    - name: 常用资源
+      url: "#常用资源"
+      icon: fas fa-box-open
+
+    - name: 漫剪 & 创作
+      url: "#漫剪-&-创作"
+      icon: fas fa-cut
+
+    - name: 搞钱项目
+      url: "#搞钱项目"
+      icon: fas fa-coins
+
+    - name: 社区论坛
+      url: "#社区论坛"
+      icon: fas fa-comments
+
+    - name: 代刷网
+      url: "#代刷网"
+      icon: fas fa-shopping-cart
+
+    - name: 网盘 & 存储
+      url: "#网盘-&-存储"
+      icon: fas fa-cloud
+
+    - name: 学习平台
+      url: "#学习平台"
+      icon: fas fa-graduation-cap
+
+    - name: 接码平台
+      url: "#接码平台"
+      icon: fas fa-sms
+
+    - name: 服务器 & 域名
+      url: "#服务器-&-域名"
+      icon: fas fa-server
+
+    # 这是一个外部链接的例子，你可以保留或删除
     - name: GitHub
       url: https://github.com/
       icon: fab fa-github
-      target: _blank
-    - name: 1Panel
-      url: http://45.205.31.23:29861/
-      icon: fas fa-server
       target: _blank
