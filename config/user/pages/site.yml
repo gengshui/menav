@@ -1,14 +1,10 @@
-# 网站基本信息
 title: 我的导航
 description: 个人导航站
 author: Me
 favicon: menav.svg
 logo_text: MeNav
-
 icons:
   mode: favicon
-
-# 字体设置
 fonts:
   title:
     family: Poppins
@@ -23,27 +19,37 @@ fonts:
     weight: 400
     source: google
 
-# 个人资料
 profile:
   title: 哈啰！👋
   subtitle: 欢迎使用我的导航
-  description: 常用网站一键直达 ✨
 
-# 🧭 核心导航 (关键修改！)
-# 这里必须填真实存在的页面 ID，我们只有 home.yml，所以只能填 home
+# 🔴 核心导航：必须对应真实文件！
 navigation:
   - name: 首页
     icon: fas fa-home
-    id: home   # 对应 config/user/pages/home.yml
+    id: home        # 对应 home.yml
+    active: true    # 设置为默认激活
 
-# 💬 底部社交链接 (这里可以放外链！)
+# 🔵 社交链接：这里可以放跳转链接！(变相实现目录)
 social:
+  - name: 置顶
+    url: "#置顶常用网站"
+    icon: fas fa-star
+  - name: 机场
+    url: "#机场-&-代理"
+    icon: fas fa-plane
+  - name: 资源
+    url: "#资源"
+    icon: fas fa-box-open
+  - name: 搞钱
+    url: "#搞钱项目"
+    icon: fas fa-coins
+  - name: 网盘
+    url: "#网盘-&-存储"
+    icon: fas fa-cloud
+  - name: 学习
+    url: "#学习平台"
+    icon: fas fa-graduation-cap
   - name: GitHub
     url: https://github.com
     icon: fab fa-github
-  - name: 1Panel
-    url: http://45.205.31.23:29861/
-    icon: fas fa-server
-  - name: 置顶常用
-    url: "#置顶常用网站"
-    icon: fas fa-star
