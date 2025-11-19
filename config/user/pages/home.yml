@@ -1,181 +1,220 @@
-title: 我的导航
-subtitle: 常用网站收藏
-bgImage: https://img.paulzzh.com/touhou/random
+# 默认页面配置（请勿直接修改）。
+# 建议复制到 config/user/pages/home.yml 并按需调整。
+title: 欢迎使用        # 页面标题
+subtitle: 个人导航站点  # 页面副标题
 
+# 指定使用的模板文件名，现有页面模板可见 templates/pages（不含 .hbs）
+template: home
+
+# 页面分类与站点列表（可按需增删顺序）
 categories:
   - name: 常用网站
-    icon: fas fa-star
+    icon: fas fa-star # 分类图标（Font Awesome）
     sites:
-      - name: HZW（网课/乐跑）
-        url: http://hzwkm.com/index/home
-        icon: fas fa-running
+      - name: Linux.do            # 站点名称
+        url: https://linux.do/    # http/https URL（favicon 模式将尝试加载站点图标）
+        icon: fab fa-linux        # 手动图标：manual 模式使用；favicon 模式下作为回退
+        description: 新的理想型社区 # 站点描述
       - name: Google
-        url: https://www.google.com/
+        url: https://www.google.com
         icon: fab fa-google
+        description: 全球最大的搜索引擎
       - name: GitHub
-        url: https://github.com/
+        url: https://www.github.com
         icon: fab fa-github
-      - name: 仪表盘 | PolYun
-        url: https://svcloud.one/#/dashboard
-        icon: fas fa-tachometer-alt
-      - name: 佛系云计算
-        url: https://vps.idcfx.net/clientarea
-        icon: fas fa-cloud
-
-  - name: 机场 & 代理
-    icon: fas fa-plane
-    sites:
-      - name: 泡泡Dog
-        url: https://www.paopao.dog/#/login
-        icon: fas fa-dog
-        description: "高速节点"
-      - name: 亏本机场
-        url: https://knjc.cfd/#/dashboard
-        icon: fas fa-bolt
-      - name: 仪表盘 | PolYun  # ✅ 已放回
-        url: https://svcloud.one/#/dashboard
-        icon: fas fa-tachometer-alt
-      - name: 互联网测速
-        url: https://fast.com/zh/cn/#
-        icon: fas fa-shipping-fast
-
-  - name: 资源
-    icon: fas fa-box-open
-    sites:
-      - name: 星海SVIP
-        url: https://bbs.16rd.com/thread-601872-1-1.html
-        icon: fas fa-tools
-      - name: 萤火虫资源
-        url: https://www.yhcres.top/
-        icon: fas fa-fire
-      - name: 阿里图标库
-        url: https://www.iconfont.cn/
-        icon: fab fa-alipay
-      - name: IconPark
-        url: https://iconpark.oceanengine.com/home
-        icon: fas fa-icons
-      - name: 土豆资源库
-        url: https://www.tdtd.chat/index
-        icon: fas fa-hdd
-      - name: 4K高清壁纸
-        url: https://haowallpaper.com/
-        icon: fas fa-image
-      - name: 555电影
-        url: https://pro55.life/
-        icon: fas fa-video
-      - name: 二级域名分发
-        url: https://ym.beiyum.cn/home
-        icon: fas fa-globe
-
-  - name: 漫剪 & 创作
-    icon: fas fa-cut
-    sites:
-      - name: 极虎漫剪文档
-        url: https://y93oxp075i.feishu.cn/docx/PDsXdXqJnofyfhxiXVIc5KvMnrc?ignore_wx_jump=1
-        icon: fas fa-book
-      - name: EasyAI 安装手册
-        url: https://tx5gf078h75.feishu.cn/docx/C6a8dztsuozy3uxUR3mc4uJ6nlb
+        description: 代码托管平台
+      - name: Stack Overflow
+        url: https://stackoverflow.com
+        icon: fab fa-stack-overflow
+        description: 程序员问答社区
+      - name: ChatGPT
+        url: https://chat.openai.com
         icon: fas fa-robot
-      - name: 逗哥配音神器
-        url: https://www.douge.com/index
-        icon: fas fa-microphone
-
-  - name: 搞钱项目
-    icon: fas fa-coins
-    sites:
-      - name: 数据中台
-        url: https://adz.yogougouzs.com/#/layout/dashboard
-        icon: fas fa-chart-line
-      - name: 点滴调查
-        url: http://diandisurvey.com/index.php
-        icon: fas fa-tasks
-
-  - name: 社区论坛
-    icon: fas fa-comments
-    sites:
-      - name: GitHub  # ✅ 已放回
-        url: https://github.com/
-        icon: fab fa-github
-      - name: 一尺涵知
-        url: https://www.yhanzhi.com/
-        icon: fas fa-share-alt
-      - name: 恩山无线
-        url: https://www.right.com.cn/forum/
-        icon: fas fa-wifi
-      - name: 柚坛社区
-        url: https://www.uotan.cn/
-        icon: fas fa-users
-      - name: 快嘴科技
-        url: https://kkzui.com/
-        icon: fas fa-laptop-code
-
-  - name: 代刷网
-    icon: fas fa-shopping-cart
-    sites:
-      - name: HZW（网课/乐跑）  # ✅ 已放回
-        url: http://hzwkm.com/index/home
-        icon: fas fa-running
-      - name: 刷课后台
-        url: http://www.djynb.icu/get
-        icon: fas fa-user-cog
-      - name: 网课（便宜）
-        url: https://xiaohe.jhfyqz.com/user/
-        icon: fas fa-tags
-      - name: 多维平台
-        url: https://prowk.top/index/index.php
-        icon: fas fa-cube
-      - name: 青青子衿
-        url: https://e.eeevg.cn/home
-        icon: fas fa-leaf
-
-  - name: 网盘 & 存储
-    icon: fas fa-cloud
-    sites:
-      - name: 百度网盘
-        url: https://pan.baidu.com/disk/main
-        icon: fas fa-hdd
-      - name: 百度网盘解析
-        url: https://bd.wpjx.org/user/parse
-        icon: fas fa-unlock
-
-  - name: 学习平台
+        description: AI智能助手
+      - name: YouTube
+        url: https://www.youtube.com
+        icon: fab fa-youtube
+        description: 视频分享平台
+      - name: Twitter
+        url: https://twitter.com
+        icon: fab fa-twitter
+        description: 社交媒体平台
+      - name: Reddit
+        url: https://www.reddit.com
+        icon: fab fa-reddit
+        description: 社区讨论平台
+  - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
-      - name: 教学管理系统
-        url: http://1.85.30.53/jwglxt/xtgl/login_slogin.html
-        icon: fas fa-university
-      - name: 菜鸟教程
-        url: https://www.runoob.com/
+      - name: 哔哩哔哩
+        url: https://www.bilibili.com
+        icon: fas fa-play-circle
+        description: 视频学习平台
+      - name: 知乎
+        url: https://www.zhihu.com
+        icon: fas fa-question-circle
+        description: 问答社区
+      - name: 掘金
+        url: https://juejin.cn
+        icon: fas fa-book
+        description: 高质量技术社区
+      - name: LeetCode
+        url: https://leetcode.cn
         icon: fas fa-code
-
-  - name: 接码平台
-    icon: fas fa-sms
+        description: 算法刷题平台
+      - name: Coursera
+        url: https://www.coursera.org
+        icon: fas fa-university
+        description: 在线课程平台
+      - name: edX
+        url: https://www.edx.org
+        icon: fas fa-graduation-cap
+        description: 高质量在线教育
+      - name: Udemy
+        url: https://www.udemy.com
+        icon: fas fa-chalkboard-teacher
+        description: 技能学习平台
+      - name: MDN Web Docs
+        url: https://developer.mozilla.org
+        icon: fas fa-file-code
+        description: Web开发文档
+  - name: 开发工具
+    icon: fas fa-tools
     sites:
-      - name: 椰子接码
-        url: http://h5.yezi87.com:90/#/work
-        icon: fas fa-mobile-alt
-      - name: 豪猪接码
-        url: https://h5.haozhuma.com/index.php
-        icon: fas fa-piggy-bank
-
-  - name: 服务器 & 域名
-    icon: fas fa-server
+      - name: VS Code
+        url: https://code.visualstudio.com
+        icon: fas fa-code
+        description: 强大的代码编辑器
+      - name: Postman
+        url: https://www.postman.com
+        icon: fas fa-paper-plane
+        description: API调试工具
+      - name: Git
+        url: https://git-scm.com
+        icon: fab fa-git-alt
+        description: 版本控制工具
+      - name: Docker
+        url: https://www.docker.com
+        icon: fab fa-docker
+        description: 容器化平台
+      - name: JetBrains
+        url: https://www.jetbrains.com
+        icon: fas fa-laptop-code
+        description: 专业开发IDE
+      - name: npm
+        url: https://www.npmjs.com
+        icon: fab fa-npm
+        description: Node.js包管理器
+      - name: Webpack
+        url: https://webpack.js.org
+        icon: fas fa-box-open
+        description: 前端打包工具
+      - name: GitHub Copilot
+        url: https://github.com/features/copilot
+        icon: fas fa-robot
+        description: AI编程助手
+  - name: 设计资源
+    icon: fas fa-palette
     sites:
+      - name: Figma
+        url: https://www.figma.com
+        icon: fab fa-figma
+        description: 在线设计工具
+      - name: Dribbble
+        url: https://dribbble.com
+        icon: fab fa-dribbble
+        description: 设计师社区
+      - name: Behance
+        url: https://www.behance.net
+        icon: fab fa-behance
+        description: 创意设计平台
+      - name: IconFont
+        url: https://www.iconfont.cn
+        icon: fas fa-icons
+        description: 图标资源库
+      - name: Unsplash
+        url: https://unsplash.com
+        icon: fas fa-camera
+        description: 免费高质量图片
+      - name: Adobe XD
+        url: https://www.adobe.com/products/xd.html
+        icon: fab fa-adobe
+        description: UI/UX设计工具
+      - name: Sketch
+        url: https://www.sketch.com
+        icon: fas fa-pencil-ruler
+        description: 矢量设计工具
+      - name: Canva
+        url: https://www.canva.com
+        icon: fas fa-paint-brush
+        description: 在线平面设计
+  - name: 在线工具
+    icon: fas fa-wrench
+    sites:
+      - name: JSON Editor
+        url: https://jsoneditoronline.org
+        icon: fas fa-code-branch
+        description: JSON在线编辑器
+      - name: Can I Use
+        url: https://caniuse.com
+        icon: fas fa-browser
+        description: 浏览器兼容性查询
+      - name: TinyPNG
+        url: https://tinypng.com
+        icon: fas fa-compress
+        description: 图片压缩工具
+      - name: Carbon
+        url: https://carbon.now.sh
+        icon: fas fa-code
+        description: 代码图片生成器
+      - name: RegExr
+        url: https://regexr.com
+        icon: fas fa-search
+        description: 正则表达式测试
+      - name: Excalidraw
+        url: https://excalidraw.com
+        icon: fas fa-pencil-alt
+        description: 手绘风格图表工具
+      - name: Notion
+        url: https://www.notion.so
+        icon: fas fa-sticky-note
+        description: 多功能笔记工具
+      - name: Grammarly
+        url: https://www.grammarly.com
+        icon: fas fa-spell-check
+        description: 英文语法检查工具
+  - name: 云服务平台
+    icon: fas fa-cloud
+    sites:
+      - name: AWS
+        url: https://aws.amazon.com
+        icon: fab fa-aws
+        description: 亚马逊云服务
+      - name: Azure
+        url: https://azure.microsoft.com
+        icon: fab fa-microsoft
+        description: 微软云平台
+      - name: Google Cloud
+        url: https://cloud.google.com
+        icon: fab fa-google
+        description: 谷歌云平台
       - name: Cloudflare
-        url: https://dash.cloudflare.com/
-        icon: fab fa-cloudflare
-      - name: Spaceship DNS
-        url: https://www.spaceship.com/
-        icon: fas fa-space-shuttle
-      - name: 朝晞云
-        url: https://cloud.zxiyun.com/
-        icon: fas fa-cloud-sun
-      - name: 佛系云计算  # ✅ 已放回
-        url: https://vps.idcfx.net/clientarea
+        url: https://www.cloudflare.com
         icon: fas fa-cloud
-      - name: 1Panel 面板
-        url: http://45.205.31.23:29861/
-        icon: fas fa-cogs
-      - name: 阿里云控制台
-        url: https://swasnext.console.aliyun.com/
-        icon: fab fa-alipay
+        description: CDN与安全服务
+      - name: Vercel
+        url: https://vercel.com
+        icon: fas fa-server
+        description: 前端部署平台
+      - name: Netlify
+        url: https://www.netlify.com
+        icon: fas fa-globe
+        description: 静态网站托管
+      - name: DigitalOcean
+        url: https://www.digitalocean.com
+        icon: fab fa-digital-ocean
+        description: 简单云服务器
+      - name: Heroku
+        url: https://www.heroku.com
+        icon: fas fa-h-square
+        description: 应用部署平台
