@@ -3,7 +3,7 @@ subtitle: 常用网站收藏
 bgImage: https://img.paulzzh.com/touhou/random
 
 categories:
-  - name: 置顶常用网站
+  - name: 常用网站
     icon: fas fa-star
     sites:
       - name: HZW（网课/乐跑）
@@ -32,6 +32,9 @@ categories:
       - name: 亏本机场
         url: https://knjc.cfd/#/dashboard
         icon: fas fa-bolt
+      - name: 仪表盘 | PolYun  # ✅ 已放回
+        url: https://svcloud.one/#/dashboard
+        icon: fas fa-tachometer-alt
       - name: 互联网测速
         url: https://fast.com/zh/cn/#
         icon: fas fa-shipping-fast
@@ -90,6 +93,9 @@ categories:
   - name: 社区论坛
     icon: fas fa-comments
     sites:
+      - name: GitHub  # ✅ 已放回
+        url: https://github.com/
+        icon: fab fa-github
       - name: 一尺涵知
         url: https://www.yhanzhi.com/
         icon: fas fa-share-alt
@@ -106,6 +112,9 @@ categories:
   - name: 代刷网
     icon: fas fa-shopping-cart
     sites:
+      - name: HZW（网课/乐跑）  # ✅ 已放回
+        url: http://hzwkm.com/index/home
+        icon: fas fa-running
       - name: 刷课后台
         url: http://www.djynb.icu/get
         icon: fas fa-user-cog
@@ -161,6 +170,9 @@ categories:
       - name: 朝晞云
         url: https://cloud.zxiyun.com/
         icon: fas fa-cloud-sun
+      - name: 佛系云计算  # ✅ 已放回
+        url: https://vps.idcfx.net/clientarea
+        icon: fas fa-cloud
       - name: 1Panel 面板
         url: http://45.205.31.23:29861/
         icon: fas fa-cogs
