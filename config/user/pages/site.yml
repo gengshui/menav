@@ -1,0 +1,13 @@
+menus:
+  main:
+    - name: 首页
+      url: /
+      icon: fas fa-home
+    - name: GitHub
+      url: https://github.com/
+      icon: fab fa-github
+      target: _blank
+    - name: 1Panel
+      url: http://45.205.31.23:29861/
+      icon: fas fa-server
+      target: _blank
