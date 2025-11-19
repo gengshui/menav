@@ -1,0 +1,55 @@
+title: 我的导航
+description: 个人导航站
+author: Me
+favicon: menav.svg
+logo_text: MeNav
+icons:
+  mode: favicon
+fonts:
+  title:
+    family: Poppins
+    weight: 600
+    source: google
+  subtitle:
+    family: Quicksand
+    weight: 500
+    source: google
+  body:
+    family: Noto Sans SC
+    weight: 400
+    source: google
+
+profile:
+  title: 哈啰！👋
+  subtitle: 欢迎使用我的导航
+
+# 🔴 核心导航：必须对应真实文件！
+navigation:
+  - name: 首页
+    icon: fas fa-home
+    id: home        # 对应 home.yml
+    active: true    # 设置为默认激活
+
+# 🔵 社交链接：这里可以放跳转链接！(变相实现目录)
+social:
+  - name: 置顶
+    url: "#置顶常用网站"
+    icon: fas fa-star
+  - name: 机场
+    url: "#机场-&-代理"
+    icon: fas fa-plane
+  - name: 资源
+    url: "#资源"
+    icon: fas fa-box-open
+  - name: 搞钱
+    url: "#搞钱项目"
+    icon: fas fa-coins
+  - name: 网盘
+    url: "#网盘-&-存储"
+    icon: fas fa-cloud
+  - name: 学习
+    url: "#学习平台"
+    icon: fas fa-graduation-cap
+  - name: GitHub
+    url: https://github.com
+    icon: fab fa-github
