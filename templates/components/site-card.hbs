@@ -10,14 +10,16 @@
       {{#ifHttpUrl url}}
         <div class="icon-container">
           <i class="fas fa-circle-notch fa-spin icon-placeholder" aria-hidden="true"></i>
+          
           <img
-  class="favicon-icon"
-  src="https://api.iowen.cn/favicon/{{extractDomain url}}.png"
-  alt="{{name}} favicon"
-  loading="lazy"
-  onload="this.classList.add('loaded'); this.previousElementSibling.classList.add('hidden');"
-  onerror="this.classList.add('error'); this.previousElementSibling.classList.add('hidden'); this.nextElementSibling.classList.add('visible');"
-/>
+            class="favicon-icon"
+            src="https://tenapi.cn/v2/getfavicon?url={{url}}"
+            alt="{{name}} favicon"
+            loading="lazy"
+            onload="this.classList.add('loaded'); this.previousElementSibling.classList.add('hidden');"
+            onerror="this.classList.add('error'); this.previousElementSibling.classList.add('hidden'); this.nextElementSibling.classList.add('visible');"
+          />
+          
           <i class="fas fa-link icon-fallback" aria-hidden="true"></i>
         </div>
       {{else}}
