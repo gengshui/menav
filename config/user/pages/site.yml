@@ -4,12 +4,16 @@ menus:
       url: "#"
       icon: fas fa-arrow-up
 
+    - name: ⭐ 置顶常用
+      url: "#置顶常用网站"
+      icon: fas fa-star
+
     - name: 机场 & 代理
       url: "#机场-&-代理"
       icon: fas fa-plane
 
-    - name: 常用资源
-      url: "#常用资源"
+    - name: 资源
+      url: "#资源"
       icon: fas fa-box-open
 
     - name: 漫剪 & 创作
@@ -44,7 +48,6 @@ menus:
       url: "#服务器-&-域名"
       icon: fas fa-server
 
-    # 这是一个外部链接的例子，你可以保留或删除
     - name: GitHub
       url: https://github.com/
       icon: fab fa-github
