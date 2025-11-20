@@ -48,34 +48,28 @@ categories:
         url: https://www.bilibili.com
         icon: fas fa-play-circle
         description: 视频学习平台
-      - name: 知乎
-        url: https://www.zhihu.com
-        icon: fas fa-question-circle
-        description: 问答社区
-      - name: 掘金
-        url: https://juejin.cn
-        icon: fas fa-book
-        description: 高质量技术社区
-      - name: LeetCode
-        url: https://leetcode.cn
-        icon: fas fa-code
-        description: 算法刷题平台
-      - name: Coursera
-        url: https://www.coursera.org
-        icon: fas fa-university
-        description: 在线课程平台
-      - name: edX
-        url: https://www.edx.org
-        icon: fas fa-graduation-cap
-        description: 高质量在线教育
-      - name: Udemy
-        url: https://www.udemy.com
-        icon: fas fa-chalkboard-teacher
-        description: 技能学习平台
-      - name: MDN Web Docs
-        url: https://developer.mozilla.org
-        icon: fas fa-file-code
-        description: Web开发文档
+        
+      - name: 超星
+        url: https://www.chaoxing.com/
+        icon: fas fa-chaoxing.com/
+        description: 学习通
+        
+      - name: 智慧树
+        url: http://zhizhihuishu.com/
+        icon: fas fa-zhizhihuishu.com/
+        description: 知到
+        
+      - name: 菜鸟教程
+        url: https://www.runoob.com/
+        icon: fas fa-runoob.com/
+        description: 菜鸟教程
+        
+      - name: 学校官网
+        url: 113.200.156.241/jwglxt
+        icon: fas fa-113.200.156.241/jwglxt
+        description: 陕西交通职业技术学院官网
+        
+      
   - name: 开发工具
     icon: fas fa-tools
     sites:
