@@ -34,22 +34,13 @@ categories:
         icon: fab fa-gemini.google.com/
         description: 谷歌ai
         
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
-      - name: YouTube
-        url: https://www.youtube.com
-        icon: fab fa-youtube
-        description: 视频分享平台
-      - name: Twitter
-        url: https://twitter.com
-        icon: fab fa-twitter
-        description: 社交媒体平台
-      - name: Reddit
-        url: https://www.reddit.com
-        icon: fab fa-reddit
-        description: 社区讨论平台
+      - name: 阿里云
+        url: https://home.console.aliyun.com/home/dashboard/ProductAndService
+        icon: fas fa-aliyun.com
+        description: 阿里云服务器管理
+        
+      
+        
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
