@@ -64,7 +64,40 @@
         <div class="overlay"></div>
 
         <!-- 左侧导航 -->
-        
+         <nav class="sidebar">
+            <div class="logo">
+                <h1 data-editable="logo-text">{{site.logo_text}}</h1>
+                <button class="sidebar-toggle" aria-label="收起/展开侧边栏">
+                    <i class="fas fa-chevron-left toggle-icon"></i>
+                </button>
+            </div>
+
+            <div class="sidebar-content">
+                <div class="nav-section">
+                    {{#if navigationData}}
+                    {{> navigation navigationData}}
+                    {{else}}
+                    {{{navigation}}}
+                    {{/if}}
+                </div>
+
+                <div class="nav-section">
+                    <div class="section-title">
+                        <i class="fas fa-link"></i>
+                    </div>
+                    {{#if social}}
+                    {{> social-links social}}
+                    {{else}}
+                    {{{socialLinks}}}
+                    {{/if}}
+                </div>
+            </div>
+
+            <div class="copyright">
+                <p>© {{currentYear}} <a href="https://github.com/rbetree/menav" target="_blank" rel="noopener">MeNav</a></p>
+                <p>by <a href="https://github.com/rbetree" target="_blank" rel="noopener">rbetree</a></p>
+            </div>
+        </nav>
 
         <!-- 右侧内容区 -->
         <main class="content">
