@@ -1,0 +1,30 @@
+title: 深度阅读
+subtitle: 精神食粮
+template: home
+
+categories:
+  - name: 科技资讯
+    icon: fas fa-newspaper
+    sites:
+      - name: 少数派 (SSPAI)
+        url: https://sspai.com/
+        icon: fas fa-pen-nib
+        description: 高质量数字生活指南
+
+      - name: 36氪
+        url: https://36kr.com/
+        icon: fas fa-rss
+        description: 科技创投媒体
+
+  - name: 知识社区
+    icon: fas fa-book-reader
+    sites:
+      - name: 知乎
+        url: https://www.zhihu.com/
+        icon: fas fa-question-circle
+        description: 问答社区
+
+      - name: 豆瓣读书
+        url: https://book.douban.com/
+        icon: fas fa-book
+        description: 书籍评分与评论
