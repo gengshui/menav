@@ -70,53 +70,53 @@ categories:
         description: 陕西交通职业技术学院官网
         
       
-  - name: 海外
-    icon: fas fa-tools
-    sites:
-      - name: github
-        url: https://github.com/
-        icon: fas fa-github.com/
-        description: 开源社区
+  # - name: 海外
+  #   icon: fas fa-tools
+  #   sites:
+  #     - name: github
+  #       url: https://github.com/
+  #       icon: fas fa-github.com/
+  #       description: 开源社区
         
-        - name: GitHub Copilot
-        url: https://github.com/features/copilot
-        icon: fas fa-robot
-        description: AI编程助手
+  #       - name: GitHub Copilot
+  #       url: https://github.com/features/copilot
+  #       icon: fas fa-robot
+  #       description: AI编程助手
         
-      - name: Gmail
-        url: https://mail.google.com/
-        icon: fas fa-mail.google.com/
-        description: 谷歌邮箱
+  #     - name: Gmail
+  #       url: https://mail.google.com/
+  #       icon: fas fa-mail.google.com/
+  #       description: 谷歌邮箱
         
-      - name: X
-        url: https://x.com/
-        icon: fab fa-x.com/
-        description: 推特
+  #     - name: X
+  #       url: https://x.com/
+  #       icon: fab fa-x.com/
+  #       description: 推特
         
-      - name: youtube
-        url: https://www.youtube.com/
-        icon: fab fa-youtube.com/
-        description: 推特
+  #     - name: youtube
+  #       url: https://www.youtube.com/
+  #       icon: fab fa-youtube.com/
+  #       description: 推特
         
-      - name: Gemini
-        url: https://gemini.google.com/
-        icon: fab fa-gemini.google.com/
-        description: 谷歌ai
+  #     - name: Gemini
+  #       url: https://gemini.google.com/
+  #       icon: fab fa-gemini.google.com/
+  #       description: 谷歌ai
         
-      - name: ChatGPT
-        url: https://chatgpt.com/
-        icon: fab fa-chatgpt.com/
-        description: chatgpt
+  #     - name: ChatGPT
+  #       url: https://chatgpt.com/
+  #       icon: fab fa-chatgpt.com/
+  #       description: chatgpt
         
-      - name: steam
-        url: https://store.steampowered.com/
-        icon: fab fa-store.steampowered.com/
-        description: steam游戏平台
+  #     - name: steam
+  #       url: https://store.steampowered.com/
+  #       icon: fab fa-store.steampowered.com/
+  #       description: steam游戏平台
         
-      - name: Facebook
-        url: https://www.facebook.com/
-        icon: fas fa-facebook.com/
-        description: facebook
+  #     - name: Facebook
+  #       url: https://www.facebook.com/
+  #       icon: fas fa-facebook.com/
+  #       description: facebook
         
       
   - name: 设计资源
