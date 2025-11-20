@@ -11,10 +11,10 @@ categories:
   - name: 常用网站
     icon: fas fa-star # 分类图标（Font Awesome）
     sites:
-      - name: Linux.do            # 站点名称
-        url: https://linux.do/    # http/https URL（favicon 模式将尝试加载站点图标）
-        icon: fab fa-linux        # 手动图标：manual 模式使用；favicon 模式下作为回退
-        description: 新的理想型社区 # 站点描述
+      - name: 云存储            # 站点名称
+        url: https://wp.sbcnmd.top/    # http/https URL（favicon 模式将尝试加载站点图标）
+        icon: fab fa-wp.sbcnmd.top       # 手动图标：manual 模式使用；favicon 模式下作为回退
+        description: 个人云存储空间 # 站点描述
       - name: Google
         url: https://www.google.com
         icon: fab fa-google
