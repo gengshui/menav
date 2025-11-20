@@ -1,0 +1,45 @@
+title: 摸鱼解压
+subtitle: 休息一下，马上回来
+template: home
+
+categories:
+  - name: 网页小玩具
+    icon: fas fa-gamepad
+    sites:
+      - name: Neal.fun
+        url: https://neal.fun/
+        icon: fas fa-dice
+        description: 超多脑洞大开的网页小游戏
+
+      - name: Mikutap
+        url: https://aidn.jp/mikutap/
+        icon: fas fa-music
+        description: 随便按键盘就能生成初音未来电音
+
+      - name: 它是怎么画的
+        url: https://br.atsit.in/
+        icon: fas fa-pencil-alt
+        description: 即使是手残党也能画出名画
+
+      - name: 假装 Windows 升级
+        url: https://fakeupdate.net/
+        icon: fab fa-windows
+        description: 全屏打开，假装电脑正在升级
+
+  - name: 游戏平台
+    icon: fas fa-ghost
+    sites:
+      - name: Steam
+        url: https://store.steampowered.com/
+        icon: fab fa-steam
+        description: 你的钱包杀手
+
+      - name: Epic Games
+        url: https://store.epicgames.com/zh-CN/
+        icon: fas fa-gamepad
+        description: 每周免费送游戏
+
+      - name: 4399
+        url: https://www.4399.com/
+        icon: fas fa-child
+        description: 童年回忆
