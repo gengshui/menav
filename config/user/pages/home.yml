@@ -17,7 +17,7 @@ categories:
         description: 个人云存储空间 # 站点描述
       - name: hzw
         url: http://hzwkm.com
-        icon: http://hzwkm.com/logo.png
+        icon: fab fa-http://hzwkm.com/index/login
         description: hzw平台
         
       - name: Google
