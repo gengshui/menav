@@ -28,10 +28,12 @@ categories:
         url: https://www.github.com
         icon: fab fa-github
         description: 代码托管平台
-      - name: Stack Overflow
-        url: https://stackoverflow.com
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
+        
+      - name: Gemini
+        url: https://gemini.google.com/
+        icon: fab fa-gemini.google.com/
+        description: 谷歌ai
+        
       - name: ChatGPT
         url: https://chat.openai.com
         icon: fas fa-robot
