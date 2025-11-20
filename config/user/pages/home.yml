@@ -195,72 +195,82 @@ categories:
         description: 在线工具箱
         
   - name: 在线工具
-    icon: fas fa-wrench
+    icon: fas fa-toolbox
     sites:
-      - name: JSON Editor
-        url: https://jsoneditoronline.org
-        icon: fas fa-code-branch
-        description: JSON在线编辑器
-      - name: Can I Use
-        url: https://caniuse.com
-        icon: fas fa-browser
-        description: 浏览器兼容性查询
+      - name: Convertio
+        url: https://convertio.co/zh/
+        icon: fas fa-exchange-alt
+        description: 全能文件转换
+
+      - name: iLovePDF
+        url: https://www.ilovepdf.com/zh-cn
+        icon: fas fa-file-pdf
+        description: PDF全能工具
+
+      - name: Remove.bg
+        url: https://www.remove.bg/zh
+        icon: fas fa-eraser
+        description: 一键智能抠图
+
       - name: TinyPNG
-        url: https://tinypng.com
-        icon: fas fa-compress
-        description: 图片压缩工具
-      - name: Carbon
-        url: https://carbon.now.sh
-        icon: fas fa-code
-        description: 代码图片生成器
-      - name: RegExr
-        url: https://regexr.com
-        icon: fas fa-search
-        description: 正则表达式测试
-      - name: Excalidraw
-        url: https://excalidraw.com
-        icon: fas fa-pencil-alt
-        description: 手绘风格图表工具
-      - name: Notion
-        url: https://www.notion.so
-        icon: fas fa-sticky-note
-        description: 多功能笔记工具
-      - name: Grammarly
-        url: https://www.grammarly.com
-        icon: fas fa-spell-check
-        description: 英文语法检查工具
+        url: https://tinypng.com/
+        icon: fas fa-compress-arrows-alt
+        description: 图片无损压缩
+
+      - name: Speedtest
+        url: https://www.speedtest.net/
+        icon: fas fa-tachometer-alt
+        description: 网速在线测试
+
+      - name: DeepL
+        url: https://www.deepl.com/translator
+        icon: fas fa-language
+        description: 最准AI翻译
+
+      - name: 草料二维码
+        url: https://cli.im/
+        icon: fas fa-qrcode
+        description: 二维码生成器
+        
   - name: 云服务平台
     icon: fas fa-cloud
     sites:
-      - name: AWS
-        url: https://aws.amazon.com
-        icon: fab fa-aws
-        description: 亚马逊云服务
-      - name: Azure
-        url: https://azure.microsoft.com
-        icon: fab fa-microsoft
-        description: 微软云平台
-      - name: Google Cloud
-        url: https://cloud.google.com
-        icon: fab fa-google
-        description: 谷歌云平台
-      - name: Cloudflare
-        url: https://www.cloudflare.com
-        icon: fas fa-cloud
-        description: CDN与安全服务
-      - name: Vercel
-        url: https://vercel.com
+      - name: 阿里云
+        url: https://www.aliyun.com/
+        icon: fab fa-alipay
+        description: 国内第一云
+
+      - name: 腾讯云
+        url: https://cloud.tencent.com/
+        icon: fab fa-weixin
+        description: 性价比高
+
+      - name: 华为云
+        url: https://www.huaweicloud.com/
         icon: fas fa-server
-        description: 前端部署平台
-      - name: Netlify
-        url: https://www.netlify.com
-        icon: fas fa-globe
-        description: 静态网站托管
-      - name: DigitalOcean
-        url: https://www.digitalocean.com
-        icon: fab fa-digital-ocean
-        description: 简单云服务器
-      - name: Heroku
-        url: https://www.heroku.com
-        icon: fas fa-h-square
-        description: 应用部署平台
+        description: 华为旗下云
+
+      - name: Cloudflare
+        url: https://dash.cloudflare.com/
+        icon: fab fa-cloudflare
+        description: 免费CDN防护
+
+      - name: Spaceship
+        url: https://www.spaceship.com/
+        icon: fas fa-space-shuttle
+        description: 便宜域名注册
+
+      - name: AWS
+        url: https://aws.amazon.com/cn/
+        icon: fab fa-aws
+        description: 全球云计算
+
+      - name: Vercel
+        url: https://vercel.com/
+        icon: fas fa-code-branch
+        description: 免费静态托管
+
+      - name: 1Panel
+        url: https://1panel.cn/
+        icon: fas fa-cogs
+        description: 新一代面板
