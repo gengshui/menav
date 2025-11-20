@@ -38,7 +38,49 @@ categories:
         url: https://home.console.aliyun.com/home/dashboard/ProductAndService
         icon: fas fa-aliyun.com
         description: 阿里云服务器管理 
-        
+
+  - name: AI 热门工具
+    icon: fas fa-robot
+    sites:
+      - name: Gemini
+        url: https://gemini.google.com/
+        icon: fas fa-star
+        description: 谷歌官方AI
+
+      - name: ChatGPT
+        url: https://chat.openai.com/
+        icon: fas fa-comment-dots
+        description: AI对话鼻祖
+
+      - name: 豆包 (Doubao)
+        url: https://www.doubao.com/
+        icon: fas fa-comment-alt
+        description: 抖音旗下AI
+
+      - name: DeepSeek
+        url: https://chat.deepseek.com/
+        icon: fas fa-code
+        description: 深度求索/开源强
+
+      - name: Kimi
+        url: https://kimi.moonshot.cn/
+        icon: fas fa-moon
+        description: 超长文本分析
+
+      - name: Copilot
+        url: https://copilot.microsoft.com/
+        icon: fab fa-microsoft
+        description: 微软AI助手
+
+      - name: Claude 3
+        url: https://claude.ai/
+        icon: fas fa-brain
+        description: 强逻辑推理
+
+      - name: Midjourney
+        url: https://www.midjourney.com/
+        icon: fas fa-palette
+        description: AI绘图神器
       
         
   - name: 学习资源
