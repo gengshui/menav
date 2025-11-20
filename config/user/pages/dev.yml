@@ -1,0 +1,35 @@
+title: 开发者神器
+subtitle: 代码工具箱
+template: home
+
+categories:
+  - name: 格式化 & 转换
+    icon: fas fa-code
+    sites:
+      - name: JSON.cn
+        url: https://www.json.cn/
+        icon: fas fa-brackets-curly
+        description: JSON 在线解析格式化
+
+      - name: Regex101
+        url: https://regex101.com/
+        icon: fas fa-search
+        description: 正则表达式在线测试
+
+      - name: Crontab
+        url: https://crontab.guru/
+        icon: fas fa-clock
+        description: Linux 定时任务表达式生成
+
+  - name: 文档查询
+    icon: fas fa-book
+    sites:
+      - name: MDN Web Docs
+        url: https://developer.mozilla.org/zh-CN/
+        icon: fab fa-firefox
+        description: 前端开发圣经
+
+      - name: Stack Overflow
+        url: https://stackoverflow.com/
+        icon: fab fa-stack-overflow
+        description: 全球最大的代码问答社区
