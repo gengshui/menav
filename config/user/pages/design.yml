@@ -1,0 +1,35 @@
+title: 设计灵感
+subtitle: 审美提升 & 素材获取
+template: home
+
+categories:
+  - name: 配色神器
+    icon: fas fa-palette
+    sites:
+      - name: ColorHunt
+        url: https://colorhunt.co/
+        icon: fas fa-swatchbook
+        description: 现成的配色方案推荐
+
+      - name: Nippon Colors
+        url: https://nipponcolors.com/
+        icon: fas fa-paint-brush
+        description: 超美的日本传统色
+
+  - name: 灵感社区
+    icon: fab fa-dribbble
+    sites:
+      - name: Dribbble
+        url: https://dribbble.com/
+        icon: fab fa-dribbble
+        description: 全球设计师作品分享
+
+      - name: Pinterest
+        url: https://www.pinterest.com/
+        icon: fab fa-pinterest
+        description: 瀑布流图片灵感库
+
+      - name: 花瓣网
+        url: https://huaban.com/
+        icon: fas fa-flower
+        description: 国内设计师灵感库
