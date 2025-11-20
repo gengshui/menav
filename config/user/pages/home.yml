@@ -161,41 +161,39 @@ categories:
         description: 社交媒体
         
       
-  - name: 设计资源
-    icon: fas fa-palette
+  - name: 资源素材
+    icon: fas fa-layer-group
     sites:
-      - name: Figma
-        url: https://www.figma.com
-        icon: fab fa-figma
-        description: 在线设计工具
-      - name: Dribbble
-        url: https://dribbble.com
-        icon: fab fa-dribbble
-        description: 设计师社区
-      - name: Behance
-        url: https://www.behance.net
-        icon: fab fa-behance
-        description: 创意设计平台
-      - name: IconFont
-        url: https://www.iconfont.cn
+      - name: 阿里图标库
+        url: https://www.iconfont.cn/
         icon: fas fa-icons
-        description: 图标资源库
+        description: 矢量图标下载
+
+      - name: 萤火虫资源
+        url: https://www.yhcres.top/
+        icon: fas fa-fire
+        description: 综合资源站
+
+      - name: 哲风壁纸
+        url: https://haowallpaper.com/
+        icon: fas fa-image
+        description: 4K高清壁纸
+
+      - name: 吾爱破解
+        url: https://www.52pojie.cn/
+        icon: fas fa-unlock-alt
+        description: 软件安全社区
+
       - name: Unsplash
-        url: https://unsplash.com
+        url: https://unsplash.com/
         icon: fas fa-camera
-        description: 免费高质量图片
-      - name: Adobe XD
-        url: https://www.adobe.com/products/xd.html
-        icon: fab fa-adobe
-        description: UI/UX设计工具
-      - name: Sketch
-        url: https://www.sketch.com
-        icon: fas fa-pencil-ruler
-        description: 矢量设计工具
-      - name: Canva
-        url: https://www.canva.com
-        icon: fas fa-paint-brush
-        description: 在线平面设计
+        description: 免费无版权图
+
+      - name: 123Apps
+        url: https://123apps.com/cn/
+        icon: fas fa-toolbox
+        description: 在线工具箱
+        
   - name: 在线工具
     icon: fas fa-wrench
     sites:
