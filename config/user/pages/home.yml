@@ -24,7 +24,7 @@ categories:
 
       - name: 1Panel
         url: http://47.108.155.201:8090/websites
-        icon: fab fa-https://1panel.cn/
+        icon: fab fa-1panel.cn
         description: 阿里服务器面板
 
       - name: Gemini
