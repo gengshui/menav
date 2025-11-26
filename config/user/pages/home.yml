@@ -22,10 +22,10 @@ categories:
         icon: fab fa-pg.kxzf888.top
         description: 盘古下单
 
-      - name: GitHub
-        url: https://www.github.com
-        icon: fab fa-github
-        description: 代码托管平台
+      - name: 1Panel
+        url: http://47.108.155.201:8090/websites
+        icon: fab fa-https://1panel.cn/
+        description: 阿里服务器面板
 
       - name: Gemini
         url: https://gemini.google.com/
