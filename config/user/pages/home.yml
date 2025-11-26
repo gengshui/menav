@@ -17,10 +17,10 @@ categories:
         icon: fas fa-running # 已修复
         description: hzw平台
 
-      - name: Google
-        url: https://www.google.com
-        icon: fab fa-google
-        description: 全球最大的搜索引擎
+      - name: 盘古
+        url: http://pg.kxzf888.top/lgpangu2/lgpglp.php
+        icon: fab fa-pg.kxzf888.top
+        description: 盘古下单
 
       - name: GitHub
         url: https://www.github.com
